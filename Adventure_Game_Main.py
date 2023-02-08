@@ -1,5 +1,6 @@
 
 import tkinter as Tk
+import Classes as CL
 
 root = Tk.Tk()
 
