@@ -8,7 +8,7 @@ root.geometry("1500x1300")
 
 root.configure(bg="tan")
 
-root.title("The Adventure of Perry Trotter and the Heavily Restricted Forest")
+root.title("Title")
 
 label = Tk.Label(root, text="""   STORY """, font=("Papyrus 18 bold"))
 
